@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/springboot_register_login_security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot_register_login_security/08_Spring_Security_Reg_Login_App" vcs="Git" />
+  </component>
+</project>
